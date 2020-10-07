@@ -6,4 +6,5 @@ public class Person {
     private int age;
     private String sex;
     private double bigData;
+    private String scholl;
 }
